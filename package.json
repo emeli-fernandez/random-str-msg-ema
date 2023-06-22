@@ -1,0 +1,25 @@
+{
+  "name": "random-str-msg-ema",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emeli-fernandez/random-str-msg-ema.git"
+  },
+  "keywords": [],
+  "author": "Emeli Fernandez <emelifernandez94@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emeli-fernandez/random-str-msg-ema/issues"
+  },
+  "homepage": "https://github.com/emeli-fernandez/random-str-msg-ema#readme",
+"bin": {
+  "random-str-msg-ema": "./bin/global.js"
+},
+"preferGlobal": true
+}
+
